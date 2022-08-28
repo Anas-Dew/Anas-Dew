@@ -60,18 +60,4 @@ Languages and technologies
   anascode@duck.com
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![hii](https://komarev.com/ghpvc/?username=Anas-Dew)
