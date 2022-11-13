@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working : todo-stack<br>🌱 I’m currently learning : ElectronJS<br>📗 I’m currently reading : Mind : How to develop, train & use it.<br>⚡Fun fact : I'm not a nerd..!
+🔭 I’m currently working : todo-stack<br>🌱 I’m currently learning : ElectronJS<br>📗 I’m currently reading : null<br>⚡Fun fact : I'm not a nerd..!
 
 
 ## 🌐 Socials:
