@@ -5,7 +5,7 @@ I create online apps, e-commerce sites, and landing pages for businesses as well
 
 
 
-* ✉️  You can contact me at [anasraza1@yahoo.com](mailto:anasraza1@yahoo.com)
+* ✉️  You can contact me at [Email](mailto:anasraza1@yahoo.com)
 
 * 🚀  I'm currently working on [Quick SQL connector](http://quicksqlconnector.web.app/)
 
