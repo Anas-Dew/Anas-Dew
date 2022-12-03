@@ -7,7 +7,7 @@ I create online apps, e-commerce sites, and landing pages for businesses as well
 
 * ✉️  You can contact me [here](https://anasdew.tech/)
 
-* 🚀  I'm currently working on [Quick SQL connector](http://quicksqlconnector.web.app/)
+* 🚀  I'm currently working on [Quick SQL connector](http://quicksqlconnector.web.app/), 4500+ Downloads on PyPi
 
 * 🧠  I'm learning Electron JS
 
