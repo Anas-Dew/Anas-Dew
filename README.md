@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) T'is Anas Dew
 
-I have a strong background in web development. And have a passion for creating beautiful and effective websites and web apps. I am experienced in all aspects of web development, from front-end design to back-end coding, I specialize in using modern technologies such as React, JavaScript, Python (Django & Flask), Bootstrap5, Tailwind CSS and MySQL, MongoDB etc. to create responsive websites and web applications. I create online apps, e-commerce sites, and landing pages for businesses as well as for myself. I began coding in 2021 and have built and owned 8+ MVPs since then. I regularly learn new things, and I enjoy sharing my knowledge through my blogs and newsletters. I enjoy doing these things.
+I have a strong background in web development. And have a passion for solving a problem. I am experienced in all aspects of web development, from front-end design to back-end coding, I specialize in using modern technologies such as React, JavaScript, Python (Django & Flask), Bootstrap5, Tailwind CSS and MySQL, MongoDB etc. to create responsive websites and web applications. I began coding in 2021 and have built and owned 9+ Tech MVPs and Products since then. I regularly learn new things, and I enjoy sharing my knowledge through my blogs and other social channels. I enjoy doing these things.
 
 
 * ✉️  You can contact me [here](https://anasdew.tech/)
