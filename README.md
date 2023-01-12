@@ -1,15 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) T'is Anas Dew
 
-I have a strong background in web development. And have a passion for solving a problem. I am experienced in all aspects of web development, from front-end design to back-end coding, I specialize in using modern technologies such as React, JavaScript, Python (Django & Flask), Bootstrap5, Tailwind CSS and MySQL, MongoDB etc. to create responsive websites and web applications. I began coding in 2021 and have built and owned 9+ Tech MVPs and Products since then. I regularly learn new things, and I enjoy sharing my knowledge through my blogs and other social channels. I enjoy doing these things.
-
+🔥 I have a passion for solving problems and building products that matter. I have been coding since 2021 and have built and owned 9+ products.
 
 * ✉️  You can contact me [here](https://anasdew.tech/)
 
-* 🚀  I'm currently working on [NEW SECRET PROJECT].
+* 🚀  I'm currently working on A SAAS (Releasing Soon).
 
-* 🧠  I'm learning Electron JS
-
-* 🤝  I'm open to collaborating on a new project, writing blogs and something that interests me.
+* 🤝  I'm open to collaborating on a new project, writing blogs or something that interests me.
 
 * ⚡  I still watch FRIENDS and The Big Bang Theory.
 
