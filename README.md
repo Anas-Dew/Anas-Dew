@@ -14,7 +14,7 @@
 
 * I've built [QuickSQLconnector](http://quicksqlconnector.web.app/) which let's folks work with SQL databases with just one line of code, saving upto 80%.
 
-* I've built [Nostalgia Google](https://google2002.ml/) which brings you to 2002. The old style of Google. It got Viral with over 397K+ Views over the internet.
+* I've built [Nostalgia Google](https://bye-nostalgia-google.netlify.app/) which brings you to 2002. The old style of Google. It got Viral with over 397K+ Views over the internet.
 
 
 ## 🌐 Socials:
