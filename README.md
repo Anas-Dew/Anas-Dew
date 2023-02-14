@@ -1,6 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) T'is Anas Dew
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) T'is Anas Dew
 
-🔥 I have a passion for solving problems and building products that matter. I have been coding since 2021 and have built and owned 9+ products.
+🔥 I have a passion for solving problems and building products that matter. I have been coding since 2021 and have built and owned 10+ products.
 
 * ✉️  You can contact me [here](https://anasdew.tech/)
 
