@@ -2,7 +2,7 @@
 
 🔥 I have a passion for solving problems and building products that matter. I have been coding since 2021 and have built 10+ products.
 
-## Little Achievements (Development Mode)
+## Little Achievements
 
 * I've built [QuickSQLconnector](http://quicksqlconnector.web.app/) which let's folks work with SQL databases with just one line of code, reducing upto 80% lines of code and lots of headache.
 
@@ -19,6 +19,23 @@
 * 🤝  I'm open to collaborating on a new project, writing blogs or something that interests me.
 
 * ⚡  I still watch FRIENDS and The Big Bang Theory (On Reels 😁).
+
+## Top Repositories
+I am absolutely thrilled to share with you the amazing apps that I have created!
+
+* [SuperURL](https://superurl.pythonanywhere.com/), It's a link shortener tool and API that also lets you secure it with password as well. [API](https://github.com/Anas-Dew/super-url/blob/main/API_Documentation.md) is available for free to use.
+* [Phrase2Word](https://phrase2word.netlify.app/) is a AI tool built with OpenAI API that finds the best possible word for a specific phrase.
+* [Todo Stack](https://todostack.vercel.app/) is the simplest yet most powerful todo chrome extension that is built upon the principle of the _Vim Text Editor_, which is to _don't touch the mouse_ and work with the keyboard to do things fast and efficiently.
+
+## Few Other Projects
+These are the projects which i built for fun or to learn a new concept.
+
+* [Reddit Bot](https://github.com/Anas-Dew/Reddit-Bot). Effortlessly download the most popular videos from any subreddit you desire.
+* [Frinance](https://frinance.vercel.app/) is the simplest expense tracker MERN app. It has features like filter by date and filter by category as well.
+* [Project OpenAI](https://github.com/Anas-Dew/project-open-ai) is a native gui app that is written on python. It lets you use open ai through voice command. Just like Alexa.
+
+See all projects [here](https://github.com/Anas-Dew?tab=repositories).
+
 
 ## Tech Stack 💻
 
