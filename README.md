@@ -2,7 +2,9 @@
 
 🔥 I have a passion for solving problems and building products that matter. I have been coding since 2021 and have built 10+ products.
 
-## Little Achievements
+## Projects I love.
+
+* I've made ChatGPT clone named as [CloneGPT](https://clonegpt.netlify.app/) that works as well. I made this in 4 hours and 18 minutes.
 
 * I've built [QuickSQLconnector](http://quicksqlconnector.web.app/) which let's folks work with SQL databases with just one line of code, reducing upto 80% lines of code and lots of headache.
 
