@@ -4,11 +4,11 @@
 
 ## Projects I love.
 
-* I've made ChatGPT clone named as [CloneGPT](https://clonegpt.netlify.app/) that works as well. I made this in 4 hours and 18 minutes.
+* I've made ChatGPT clone named as [Dewchat](https://clonegpt.netlify.app/) that works as well. I made this in 4 hours and 18 minutes.
 
 * I've built [QuickSQLconnector](http://quicksqlconnector.web.app/) which let's folks work with SQL databases with just one line of code, reducing upto 80% lines of code and lots of headache.
 
-* I've built [Nostalgia Google](https://bye-nostalgia-google.netlify.app/) which brings you to 2002. The old style of Google. It got Viral with over 397K+ Views over the internet. [Test out](https://google2002.netlify.app/)
+* I've built [Nostalgia Google](https://bye-nostalgia-google.netlify.app/) which brings you to 2002. The old style of Google. It got Viral with over 397K+ Views over the internet. [Test out here](https://google2002.netlify.app/)
 
 
 ## Social Links 🌐
@@ -17,9 +17,8 @@
 
 * [Join the Dewsverse Discord Community](https://bit.ly/dewsverse-community)
 
-* Currently building a productivity extension named [Todo Stack](http://todostack.vercel.app/) which is the fastest todo app (probably) because it works only with your keyborad.
+* built a productivity extension named [Todo Stack](http://todostack.vercel.app/) which is the fastest todo app (probably) because it works only with your keyborad.
 * 🤝  I'm open to collaborating on a new project, writing blogs or something that interests me.
-
 * ⚡  I still watch FRIENDS and The Big Bang Theory (On Reels 😁).
 
 ## Top Repositories
