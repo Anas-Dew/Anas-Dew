@@ -2,14 +2,9 @@
 
 🔥 I have a passion for solving problems and building products that matter. I have been coding since 2021 and have built 19+ products.
 
-## Projects I love.
 
-* I've made [SuperURL](https://superurl.pythonanywhere.com/) web app and API that let's folk develop their own link shortener under just an hour using friendly api i provided. 
 
-* I've built [QuickSQLconnector](http://quicksqlconnector.web.app/) which let's folks work with SQL databases with just one line of code, reducing upto 80% lines of code and lots of headache.
-
-* I've built [Nostalgia Google](https://bye-nostalgia-google.netlify.app/) which brings you to 2002. The old style of Google. It got Viral with over 397K+ Views over the internet. [Test out here](https://google2002.netlify.app/)
-
+<img src="https://wakatime.com/share/@anasdew/9b1857ed-b78c-40ef-af0c-ead3920e0a11.svg"></img>
 
 ## Social Links 🌐
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anasdew/)
