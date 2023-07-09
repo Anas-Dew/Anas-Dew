@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasraza) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anasdew) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anasdew)
 
 
-* built a productivity extension named [Todo Stack](http://todostack.vercel.app/) which is the fastest todo app (probably) because it works only with your keyborad.
 * 🤝  I'm open to collaborating on a new project, writing blogs or something that interests me.
 * ⚡  I still watch FRIENDS and The Big Bang Theory (On Reels 😁).
 
