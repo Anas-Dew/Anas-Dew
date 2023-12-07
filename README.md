@@ -1,21 +1,22 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) T'is Anas Dew
 
-🔥 I have a passion for solving problems and building products that matter. I have been coding since 2020 and have built 26+ products.
-
+🔥 I have a passion for solving problems and building products that matter. I have been coding since 2020 and have built 34+ products.
 
 
 <img src="https://wakatime.com/share/@anasdew/9b1857ed-b78c-40ef-af0c-ead3920e0a11.svg"></img>
 
+_This chart above does not truly represents my coding activity. Because, you know We devs do not commit everyday and there are many offline projects._
+
 ## Social Links 🌐
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anasdew/)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasraza) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anasdew) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anasdew)
 
 
 * 🤝  I'm open to collaborating on a new project, writing blogs or something that interests me.
-* ⚡  I still watch FRIENDS and The Big Bang Theory (On Reels 😁).
+* ⚡  I still watch FRIENDS and The Big Bang Theory (On YT Shorts😁).
+* 🌿  I wonder when we will live on Mars. Yes, I've interest on Space as well.
 
-See all projects [here](https://github.com/Anas-Dew?tab=repositories).
-
+Search me on [Google](https://www.google.com/search?q=who+is+anas+dew)
 
 ## Tech Stack 💻
 
