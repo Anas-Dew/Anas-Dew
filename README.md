@@ -7,8 +7,7 @@ I've a vision to make our lives better. It's simple!
 > _This chart above does not truly represents my coding activity. Because, you know we devs do not commit everyday and there are many offline projects._
 
 * 🤝  I'm open to collaborating on a new project, writing blogs or something that interests me.
-*  🍃  [Naruto](https://en.wikipedia.org/wiki/Naruto) is the only [Anime](https://en.wikipedia.org/wiki/Anime) that taught me a lot of life lessons than any book, video or someone certain ever did.
-* 🌿  I wonder when we will live on Mars. Yes, I've interest on Space as well.
+* 🌿  I wonder when we will live on Mars.
 
 Search me on [Google](https://www.google.com/search?q=who+is+anas+dew)
 
